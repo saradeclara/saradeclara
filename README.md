@@ -8,7 +8,7 @@ I build web applications with React, TypeScript and Next.js, and the AWS infrast
 
 I'm a Software Engineer on the **Web Platform** team at [Moonpig](https://www.moonpig.com). We look after the foundations the other web teams build on:
 
-- 🛠️ Shared tooling and frontend infrastructure
+- 🛠️ Shared tooling and full-stack infrastructure
 - ⚡ Performance and reliability of the web estate
 
 ## 🧭 Where I've been
