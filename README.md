@@ -10,7 +10,6 @@ I'm a Software Engineer on the **Web Platform** team at [Moonpig](https://www.mo
 
 - 🛠️ Shared tooling and frontend infrastructure
 - ⚡ Performance and reliability of the web estate
-- 🧑‍💻 Developer experience, so teams can ship quickly and safely
 
 ## 🧭 Where I've been
 
