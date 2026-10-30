@@ -27,9 +27,9 @@ I'm a Software Engineer on the **Web Platform** team at [Moonpig](https://www.mo
 
 ## 🌱 What I'm focusing on
 
-- Platform engineering and developer tooling
-- Cloud architecture on AWS
-- Writing code that's easy for other people to pick up and change
+- 🤖 Agentic workflows for full-stack development: using AI agents across the whole development loop, from planning and scaffolding to testing and review, and working out where they actually save time versus where a human still needs to steer.
+- 💻 Local AI: running models on my own machine for privacy, speed and offline use, and seeing how far open models can go for everyday dev tasks without relying on a cloud API.
+- 🚩 Feature flag management: shipping safely with progressive rollouts, experiments and quick rollbacks, while keeping flags tidy so they don't turn into tech debt.
 
 ## 📫 Get in touch
 
